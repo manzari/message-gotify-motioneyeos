@@ -5,12 +5,6 @@ Its meant to be used by [motioneye](https://github.com/ccrisan/motioneye)
 
 ## Install
 Install on a Raspberry Pi running [motioneyeos](https://github.com/ccrisan/motioneyeos)
-### Pre build binary
-```bash
-curl https://github.com/manzari/message-gotify-motioneyeos/releases/download/latest/message-gotify --output /data/message-gotify \
-    && chmod +x /data/message-gotify \
-    && /data/message-gotify
-```
 
 ### Build from source
 ```bash
